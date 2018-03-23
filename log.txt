@@ -1,0 +1,16 @@
+$ git log
+commit c97ed7ee0dad075c5240fb06417d163391b94ea3 (HEAD -> 
+logging, origin/master, master)
+Author: martin.bojmaliev@students.finki.ukim.mk 
+<martin.bojmaliev@students.finki.ukim.mk>
+Date:   Fri Mar 23 16:06:10 2018 +0100
+
+    modify l1.txt
+
+commit 6b3c546fdd08075c1d9bf843a0f8553b0bf407e2
+Author: martin.bojmaliev@students.finki.ukim.mk 
+<martin.bojmaliev@students.finki.ukim.mk>
+Date:   Fri Mar 23 16:04:08 2018 +0100
+
+    Initial commit
+
